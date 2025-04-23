@@ -15,8 +15,8 @@ This program displays information about planets in our solar system and allows u
 
 1. Clone the repository:
    ```
-   git clone https://github.com/yourusername/solar-system-info.git
-   cd solar-system-info
+   git clone https://github.com/ifejayhub/Solar-System-program.git
+   cd Solar-System-program
    ```
 
 2. No additional dependencies are required as the program uses only Python standard libraries.
